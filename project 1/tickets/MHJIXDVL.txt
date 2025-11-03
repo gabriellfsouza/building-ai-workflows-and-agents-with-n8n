@@ -1,0 +1,3 @@
+Name: Gabriel
+Submitted:  
+Description: User reports Windows is asking for a new license/purchase. Likely activation/licensing issue on corporate device. Requests assistance (do not want user to purchase personally). Needs IT to handle activation via corporate licensing (KMS/MAK/Azure AD).
